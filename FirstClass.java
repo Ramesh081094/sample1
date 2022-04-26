@@ -36,7 +36,9 @@ public class FirstClass {
 		y%=2; // y = y % 2 
 		System.out.println(y);
 		
-		
+		if(i=0,i<5,i++){
+	        system.out.println("passed")
+			}
 		
 		
 		
