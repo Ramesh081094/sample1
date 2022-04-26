@@ -38,8 +38,10 @@ public class FirstClass {
 		
 		if(i=0,i<5,i++){
 	        system.out.println("passed")
+	
+			}else{
+			system.out.println("failed")
 			}
-		
 		
 		
 	}
